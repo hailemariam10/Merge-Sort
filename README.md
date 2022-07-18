@@ -32,7 +32,7 @@ Merge Sort is quite fast, and has a time complexity of O(n*log n). It is also a 
 
 ## why the running time for merge sort is O(n*log n)?
 
-In Binary Search whenever we divide a number into half in every step, it can be represented using a logarithmic function, which is log n and the number of steps can be represented by log n + 1(at most)
+When it comes to binary search Binary Search whenever we divide a number into half in every step, it can be represented using a logarithmic function, which is log n and the number of steps can be represented by log n + 1(at most)
 
 Also, we perform a single step operation to find out the middle of any subarray, i.e. O(1).
 
